@@ -3008,13 +3008,24 @@ input, select, textarea {
     .tag-R {
         display: inline-block;
         background-color: white;
-        color: black;
-		border: 2px solid rgb(26, 72, 169);
+        color: #0f4381;
+		border: 2px solid #276dc2;
         padding: 5px 10px;
         margin-right: 5px;
         border-radius: 5px;
         font-size: 14px;
    	 }
+
+	.tag-python {
+		display: inline-block;
+		background-color: white;
+		color: #c19a0d;
+		border: 2px solid #ffde57;
+		padding: 5px 10px;
+		margin-right: 5px;
+		border-radius: 5px;
+		font-size: 14px;
+	}
 
 
 
