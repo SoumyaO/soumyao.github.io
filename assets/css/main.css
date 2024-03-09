@@ -3007,8 +3007,8 @@ input, select, textarea {
 
     	.tag {
         display: inline-block;
-        background-color: #f0f0f0;
-        color: #333;
+        background-color: blue;
+        color: white;
         padding: 5px 10px;
         margin-right: 5px;
         border-radius: 5px;
