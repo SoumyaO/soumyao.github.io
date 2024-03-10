@@ -3004,71 +3004,50 @@ input, select, textarea {
   	.tags {
         margin-top: 10px;
    	 }
+	
+	.tag-R, .tag-python, .tag-excel, .tag-seaborn, .tag-selenium {
+		display: inline-block;
+		padding: 5px 10px;
+		margin-right: 5px;
+		margin-bottom: 5px;
+		border-radius: 5px;
+		font-size: 14px;
+	}
 
     .tag-R {
-        display: inline-block;
         background-color: white;
         color: #0f4381;
 		border: 2px solid #276dc2;
-        padding: 5px 10px;
-        margin-right: 5px;
-        border-radius: 5px;
-        font-size: 14px;
    	 }
 
 	.tag-python {
-		display: inline-block;
 		background-color: white;
 		color: #c19a0d;
 		border: 2px solid #ffde57;
-		padding: 5px 10px;
-		margin-right: 5px;
-		border-radius: 5px;
-		font-size: 14px;
 	}
 
 	.tag-excel {
-		display: inline-block;
 		background-color: white;
 		color: #11552f;
 		border: 2px solid #1d6f42;
-		padding: 5px 10px;
-		margin-right: 5px;
-		border-radius: 5px;
-		font-size: 14px;
 	}
 
 	.tag-seaborn {
-		display: inline-block;
 		background-color: white;
 		color: #2a2e55;
 		border: 2px solid #444876;
-		padding: 5px 10px;
-		margin-right: 5px;
-		border-radius: 5px;
-		font-size: 14px;
 	}
 
 	.tag-selenium {
-		display: inline-block;
 		background-color: white;
 		color: #057b05;
 		border: 2px solid #00b400;
-		padding: 5px 10px;
-		margin-right: 5px;
-		border-radius: 5px;
-		font-size: 14px;
 	}
 
 	.tag-matplotlib {
-		display: inline-block;
 		background-color: white;
 		color: #505050;
 		border: 2px solid #777777;
-		padding: 5px 10px;
-		margin-right: 5px;
-		border-radius: 5px;
-		font-size: 14px;
 	}
 	
 
