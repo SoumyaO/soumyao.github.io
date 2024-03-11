@@ -3016,20 +3016,20 @@ input, select, textarea {
 
     .tag-R {
         background-color: white;
-        color: #0f4381;
-		border: 2px solid #276dc2;
+        color: #1e64b6;
+		border: 2px solid #94949b;
    	 }
 
 	.tag-python {
 		background-color: white;
-		color: #c19a0d;
-		border: 2px solid #ffde57;
+		color: #ffde57;
+		border: 2px solid #4584b6;
 	}
 
 	.tag-excel {
 		background-color: white;
-		color: #11552f;
-		border: 2px solid #1d6f42;
+		color: #07793d;
+		border: 2px solid #115c34;
 	}
 
 	.tag-seaborn {
@@ -3040,16 +3040,33 @@ input, select, textarea {
 
 	.tag-selenium {
 		background-color: white;
-		color: #057b05;
+		color: #00b400;
 		border: 2px solid #00b400;
 	}
 
 	.tag-matplotlib {
 		background-color: white;
-		color: #505050;
+		color: #8eff8e;
 		border: 2px solid #777777;
 	}
 	
+	.tag-tensorflow {
+		background-color: white;
+		color: #425066;
+		border: 2px solid #FF6F00;
+	}
+
+	.tag-scikit {
+		background-color: white;
+		color: #f89939;
+		border: 2px solid #3499cd;
+	}
+
+	.tag-pandas {
+		background-color: white;
+		color: #E70488;
+		border: 2px solid #150458;
+	}
 
 /* Table */
 
