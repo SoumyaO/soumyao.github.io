@@ -3142,6 +3142,7 @@ header.major .date:after {
 	margin-bottom: 5px;
 	border-radius: 5px;
 	font-size: 14px;
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
 }
 
 .tag-R {
