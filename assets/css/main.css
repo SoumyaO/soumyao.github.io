@@ -3135,6 +3135,15 @@ header.major .date:after {
 .tag-matplotlib,
 .tag-pandas,
 .tag-scikit,
+.tag-alpaca,
+.tag-graphviz,
+.tag-Langchain,
+.tag-postgre,
+.tag-psycopg,
+.tag-scipy,
+.tag-Streamlit,
+.tag-tableau,
+.tag-transformers,
 .tag-tensorflow {
 	display: inline-block;
 	padding: 3px 7px;
@@ -3198,6 +3207,63 @@ header.major .date:after {
 	color: #E70488;
 	border: 2px solid #150458;
 }
+
+.tag-alpaca {
+	background-color: white;
+	color: #00b400;
+	border: 2px solid #00b400;
+}
+
+.tag-graphviz {
+	background-color: white;
+	color: #2b63ff;
+	border: 2px solid #2b63ff;
+}
+
+.tag-Langchain {
+	background-color: white;
+	color: #2b63ff;
+	border: 2px solid #2b63ff;
+}
+
+.tag-postgre {
+	background-color: white;
+	color: #32648b;
+	border: 2px solid #32648b;
+}
+
+.tag-psycopg {
+	background-color: white;
+	color: #32648b;
+	border: 2px solid #32648b;
+}
+
+.tag-scipy {
+	background-color: white;
+	color: #8c8c8c;
+	border: 2px solid #8c8c8c;
+}
+
+.tag-Streamlit {
+	background-color: white;
+	color: #ff4f00;
+	border: 2px solid #ff4f00;
+}
+
+.tag-tableau {
+	background-color: white;
+	color: #00a8e8;
+	border: 2px solid #00a8e8;
+}
+
+.tag-transformers {
+	background-color: white;
+	color: #4e1a9a;
+	border: 2px solid #4e1a9a;
+} 
+
+
+
 
 /* Table */
 
