@@ -3209,118 +3209,72 @@ header.major .date:after {
 }
 
 .tag-alpaca {
-	display: inline-block;
-	padding: 3px 7px;
-	margin-right: 3px;
-	margin-bottom: 3px;
+	
 	border: 2px solid #9e6f44; /* Brown border color */
-	border-radius: 5px;
-	font-size: 12px;
-	font-family: "Source Sans Pro", Helvetica, sans-serif;
 	background-color: white;
 	color: #9e6f44; /* Matching text color */
 }
 
 .tag-graphviz {
-	display: inline-block;
-	padding: 3px 7px;
-	margin-right: 3px;
-	margin-bottom: 3px;
+	
 	border: 2px solid #5984b8; /* Blue border color */
-	border-radius: 5px;
-	font-size: 12px;
-	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	
 	background-color: white;
 	color: #5984b8; /* Matching text color */
 }
 
 .tag-Langchain {
-	display: inline-block;
-	padding: 3px 7px;
-	margin-right: 3px;
-	margin-bottom: 3px;
+	
 	border: 2px solid #00443c; /* Dark green border color */
-	border-radius: 5px;
-	font-size: 12px;
-	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	
 	background-color: white;
 	color: #00443c; /* Matching text color */
 }
 
 .tag-postgre {
-	display: inline-block;
-	padding: 3px 7px;
-	margin-right: 3px;
-	margin-bottom: 3px;
+	
 	border: 2px solid #32648f; /* Navy blue border color */
-	border-radius: 5px;
-	font-size: 12px;
-	font-family: "Source Sans Pro", Helvetica, sans-serif;
+
 	background-color: white;
 	color: #32648f; /* Matching text color */
 }
 
 .tag-psycopg {
-	display: inline-block;
-	padding: 3px 7px;
-	margin-right: 3px;
-	margin-bottom: 3px;
-	border: 2px solid #32648f; /* Navy blue border color */
-	border-radius: 5px;
-	font-size: 12px;
-	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	
+	border: 2px solid #4e7f67; /* Dark green border color */
+	
 	background-color: white;
 	color: #32648f; /* Matching text color */
 }
 
 .tag-scipy {
-	display: inline-block;
-	padding: 3px 7px;
-	margin-right: 3px;
-	margin-bottom: 3px;
+	
 	border: 2px solid #798896; /* Gray border color */
-	border-radius: 5px;
-	font-size: 12px;
-	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	
 	background-color: white;
 	color: #798896; /* Matching text color */
 }
 
 .tag-Streamlit {
-	display: inline-block;
-	padding: 3px 7px;
-	margin-right: 3px;
-	margin-bottom: 3px;
-	border: 2px solid #336791; /* Dark blue border color */
-	border-radius: 5px;
-	font-size: 12px;
-	font-family: "Source Sans Pro", Helvetica, sans-serif;
+
+	border: 2px solid #f6b352; /* Orange border color */
+	
 	background-color: white;
 	color: #336791; /* Matching text color */
 }
 
 .tag-tableau {
-	display: inline-block;
-	padding: 3px 7px;
-	margin-right: 3px;
-	margin-bottom: 3px;
+	
 	border: 2px solid #70aad2; /* Light blue border color */
-	border-radius: 5px;
-	font-size: 12px;
-	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	
 	background-color: white;
 	color: #70aad2; /* Matching text color */
 }
 
 .tag-transformers {
-	display: inline-block;
-	padding: 3px 7px;
-	margin-right: 3px;
-	margin-bottom: 3px;
+	
 	border: 2px solid #233454; /* Dark blue border color */
-	border-radius: 5px;
-	font-size: 12px;
-	font-family: "Source Sans Pro", Helvetica, sans-serif;
+	
 	background-color: white;
 	color: #233454; /* Matching text color */
 }
