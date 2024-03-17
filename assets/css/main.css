@@ -3588,10 +3588,10 @@ body.is-preload #wrapper.fade-in:before {
 	-webkit-flex-direction: column;
 	-ms-flex-direction: column;
 	flex-direction: column;
-	-moz-justify-content: -moz-flex-end;
-	-webkit-justify-content: -webkit-flex-end;
-	-ms-justify-content: -ms-flex-end;
-	justify-content: flex-end;
+	-moz-justify-content: -moz-flex-center;
+	-webkit-justify-content: -webkit-flex-center;
+	-ms-justify-content: -ms-flex-center;
+	justify-content: flex-center;
 	-moz-transition: opacity 1s ease, -moz-transform 1s ease;
 	-webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
 	-ms-transition: opacity 1s ease, -ms-transform 1s ease;
